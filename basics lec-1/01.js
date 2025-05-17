@@ -61,4 +61,3 @@ val4 = val4 - val5;
 let val6 = 10;
 let val7 = 20;
 [val6,val7] = [val7,val6]
-
